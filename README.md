@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpitha Kudave</h1>
-<h3 align="center">C# .NET Developer | Cloud-Native Engineer | Microservices Enthusiast</h3>
+<h3 align="center">C# .NET Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arpitha Kudave&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Arpitha Kudave?label=Followers&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ArpithaSurajKudave21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ArpithaSurajKuave?label=Followers&style=flat" />
 </p>
 
 ---
