@@ -115,7 +115,4 @@ I enjoy designing **clean architectures**, automating deployments, and working w
 - 🔹 Distributed systems & observability
 - 🔹 Performance tuning in .NET
 
----
 
-⭐ **If you like my work, consider giving my repositories a star!**  
-🤝 **Open to collaboration and exciting opportunities**
