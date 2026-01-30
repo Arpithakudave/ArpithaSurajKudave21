@@ -28,7 +28,7 @@ I enjoy designing **clean architectures**, automating deployments, and working w
 - 🌱 Learning **Docker, Kubernetes, AWS, Azure & System Design**
 - 👯 Open to collaborating on **Microservices & Cloud-Native Projects**
 - 💬 Ask me about  
-  **C#, .NET Core, Microservices, CI/CD, Jenkins, SonarQube, Nexus, Splunk, Snyk, SQL, React**
+  **C#, .NET Core, Microservices, CI/CD, Jenkins, SonarQube, SQL, React**
 - 📫 Reach me at **📧 arpithakudave@gmail.com**
 - ⚡ Fun fact: *I believe in clean code… but my commit history sometimes disagrees 😆*
 
