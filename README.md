@@ -1,34 +1,20 @@
-
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#0e75b6">Arpitha Kudave</span>
-</h1>
-
-<h3 align="center">
-  🚀 C# .NET Developer
-</h3>
+<h1 align="center">Hi 👋, I'm Arpitha Kudave</h1>
+<h3 align="center">C# .NET Developer | Cloud-Native Engineer | Microservices Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArpithaSurajKudave21&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/ArpithaSurajKudave21?label=Stars&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+.NET+Systems;Cloud+Native+%7C+Microservices;Clean+Architecture+Advocate;Always+Learning+New+Tech&center=true&width=650&height=45">
+  <img src="https://komarev.com/ghpvc/?username=Arpitha Kudave&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Arpitha Kudave?label=Followers&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **passionate .NET Developer** focused on building **scalable, cloud-native, and high-performance applications**.  
-I enjoy designing **clean architectures**, automating deployments, and working with **modern DevOps pipelines**.
-
 - 🔭 Currently working on **FXMicropay** & **TradeOrchestrator**
-- 🌱 Learning **Docker, Kubernetes, AWS, Azure & System Design**
+- 🌱 Learning **Docker, Kubernetes (K8s), AWS & System Design**
 - 👯 Open to collaborating on **Microservices & Cloud-Native Projects**
 - 💬 Ask me about  
-  **C#, .NET Core, Microservices, CI/CD, Jenkins, SonarQube, SQL, React**
+  **C#, .NET, Jenkins, SonarQube, Nexus, Splunk, Snyk, SQL, Firebase, Appwrite, React, React Native, Angular**
 - 📫 Reach me at **📧 arpithakudave@gmail.com**
 - ⚡ Fun fact: *I believe in clean code… but my commit history sometimes disagrees 😆*
 
@@ -36,11 +22,11 @@ I enjoy designing **clean architectures**, automating deployments, and working w
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:arpithakudave@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ArpthaKudave">
+  <a href="https://github.com/ArpithaKudave">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com">
@@ -54,63 +40,54 @@ I enjoy designing **clean architectures**, automating deployments, and working w
 
 ### 🖥 Backend & Cloud
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45"/>
- 
-</p>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
+  
 ### 🌐 Frontend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="45"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
 </p>
 
 ### 🗄 Databases & Backend Services
 <p>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/>
- 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
 </p>
 
 ### 🔧 DevOps & Tooling
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
+  <img src="https://sonarsource.gallerycdn.vsassets.io/extensions/sonarsource/sonarlint/4.7.0/1655964174766/Microsoft.VisualStudio.Services.Icons.Default" width="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonilalChavhan3&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonilalChavhan3&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonilalChavhan3&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpithaKudave&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpithaKudave&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 🏆 Professional Highlights
+## 🏆 Highlights
 
-- ✅ Designed systems using *Clean Architecture & SOLID principles*
-- ✅ Built *Microservices-based architectures* in .NET
-- ✅ Implemented *CI/CD pipelines* using Jenkins, SonarQube & Nexus
-- ✅ Containerized applications using *Docker & Kubernetes*
-- ✅ Experience with *AWS & Azure Cloud Deployments*
-- ✅ Strong focus on *scalability, performance & maintainability*
+- ✅ Strong experience with **Clean Architecture & Microservices**
+- ✅ CI/CD pipelines using **Jenkins + SonarQube + Nexus**
+- ✅ Containerized deployments using **Docker & Kubernetes**
+- ✅ Cloud-ready systems with **AWS & Azure**
+- ✅ Passionate about **scalable & maintainable systems**
 
 ---
 
-## 📌 What I’m Focused On Next
+⭐ *If you like my work, consider giving my repositories a star!*  
 
-- 🔹 Advanced *System Design*
-- 🔹 Event-driven architectures
-- 🔹 Distributed systems & observability
-- 🔹 Performance tuning in .NET
+
+
+
