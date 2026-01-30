@@ -1,10 +1,10 @@
-# ArpithaSurajKudave21
+
 <h1 align="center">
   Hi 👋, I'm <span style="color:#0e75b6">Arpitha Kudave</span>
 </h1>
 
 <h3 align="center">
-  🚀 C# .NET Developer | ☁️ Cloud-Native Engineer | 🧩 Microservices Enthusiast
+  🚀 C# .NET Developer
 </h3>
 
 <p align="center">
@@ -29,7 +29,7 @@ I enjoy designing **clean architectures**, automating deployments, and working w
 - 👯 Open to collaborating on **Microservices & Cloud-Native Projects**
 - 💬 Ask me about  
   **C#, .NET Core, Microservices, CI/CD, Jenkins, SonarQube, Nexus, Splunk, Snyk, SQL, React**
-- 📫 Reach me at **📧 chavhansonilal@gmail.com**
+- 📫 Reach me at **📧 arpithakudave@gmail.com**
 - ⚡ Fun fact: *I believe in clean code… but my commit history sometimes disagrees 😆*
 
 ---
