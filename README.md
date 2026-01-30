@@ -87,32 +87,30 @@ I enjoy designing **clean architectures**, automating deployments, and working w
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpithaSurajKudave21&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpithaSurajKudave21&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SonilalChavhan3&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonilalChavhan3&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpithaSurajKudave21&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonilalChavhan3&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
 ## 🏆 Professional Highlights
 
-- ✅ Designed systems using **Clean Architecture & SOLID principles**
-- ✅ Built **Microservices-based architectures** in .NET
-- ✅ Implemented **CI/CD pipelines** using Jenkins, SonarQube & Nexus
-- ✅ Containerized applications using **Docker & Kubernetes**
-- ✅ Experience with **AWS & Azure Cloud Deployments**
-- ✅ Strong focus on **scalability, performance & maintainability**
+- ✅ Designed systems using *Clean Architecture & SOLID principles*
+- ✅ Built *Microservices-based architectures* in .NET
+- ✅ Implemented *CI/CD pipelines* using Jenkins, SonarQube & Nexus
+- ✅ Containerized applications using *Docker & Kubernetes*
+- ✅ Experience with *AWS & Azure Cloud Deployments*
+- ✅ Strong focus on *scalability, performance & maintainability*
 
 ---
 
 ## 📌 What I’m Focused On Next
 
-- 🔹 Advanced **System Design**
+- 🔹 Advanced *System Design*
 - 🔹 Event-driven architectures
 - 🔹 Distributed systems & observability
 - 🔹 Performance tuning in .NET
-
-
