@@ -56,10 +56,7 @@ I enjoy designing **clean architectures**, automating deployments, and working w
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45"/>
+ 
 </p>
 
 ### 🌐 Frontend
@@ -75,8 +72,7 @@ I enjoy designing **clean architectures**, automating deployments, and working w
 ### 🗄 Databases & Backend Services
 <p>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="45"/>
+ 
 </p>
 
 ### 🔧 DevOps & Tooling
@@ -84,7 +80,6 @@ I enjoy designing **clean architectures**, automating deployments, and working w
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" width="45"/>
 </p>
 
 ---
